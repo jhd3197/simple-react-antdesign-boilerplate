@@ -24,3 +24,7 @@ body{
   background-color: var(--menu-bg-color-dark) !important;
 }
 
+
+.ant-layout-dark .ant-typography, .ant-layout-dark .ant-card-head-title, .ant-layout-dark .ant-list-item{
+  color: white;
+}
