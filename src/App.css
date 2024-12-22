@@ -6,14 +6,12 @@ body{
 :root {
   --menu-bg-color: #f9f9f9;
   --menu-bg-color-dark: #171717;
+  --content-bg-color: #fcfcfc;
+  --content-bg-color-dark: #1f1f1f;
 }
 
 .ant-layout-content h2{
   margin-top: 0;
-}
-
-.ant-layout > .dashboard{
-  background: none !important;
 }
 
 .ant-layout-light .ant-menu, .ant-layout-light .ant-layout-sider{
@@ -24,7 +22,14 @@ body{
   background-color: var(--menu-bg-color-dark) !important;
 }
 
-
 .ant-layout-dark .ant-typography, .ant-layout-dark .ant-card-head-title, .ant-layout-dark .ant-list-item{
   color: white;
+}
+
+.ant-layout-light .ant-layout-content{
+  background-color: var(--content-bg-color) !important;
+}
+
+.ant-layout > .dashboard{
+  background: none !important;
 }
