@@ -6,11 +6,9 @@ This is a super simple app designed to demonstrate the usage of a few basic comp
 
 ## Themes
 
-### Dark Theme
-<img width="909" alt="image" src="https://github.com/user-attachments/assets/1e4686ba-fc4d-4644-a8d6-4a3964dd7040" />
+### Dark Theme & Light Theme
+![3-81dc6fc9c8](https://github.com/user-attachments/assets/e658b80d-e607-4b8e-907f-c062e5222e24)
 
-### Light Theme
-<img width="910" alt="image" src="https://github.com/user-attachments/assets/6901e817-9b9e-4565-848d-ec5e5422584d" />
 
 
 ## Features
