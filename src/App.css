@@ -1,0 +1,26 @@
+body{
+  margin:0;
+}
+
+/* Set Variables */
+:root {
+  --menu-bg-color: #f9f9f9;
+  --menu-bg-color-dark: #171717;
+}
+
+.ant-layout-content h2{
+  margin-top: 0;
+}
+
+.ant-layout > .dashboard{
+  background: none !important;
+}
+
+.ant-layout-light .ant-menu, .ant-layout-light .ant-layout-sider{
+  background-color: var(--menu-bg-color) !important;
+}
+
+.ant-layout-dark .ant-menu, .ant-layout-dark .ant-layout-sider, .ant-layout-dark .ant-card{
+  background-color: var(--menu-bg-color-dark) !important;
+}
+
